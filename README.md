@@ -1,6 +1,9 @@
-# ALB_SEB_2020-1
+# Sistemas-Embarcados-1
 
-Notas de aulas de sistema embarcados - UFES - 2020 - 1
+Notas de aulas de sistema embarcados - UFES - 2020 - 1, feitas por Arthur Lorencini Bergamaschi (@mrtuckie).  
+Qualquer dúvida, só entrar em contato.  
+
+**Observações:** Não estranhem a linguagem utilizada, são notas pessoais do autor.
 
 ## Arquivos
 
