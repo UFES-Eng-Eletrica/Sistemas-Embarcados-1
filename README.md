@@ -55,9 +55,6 @@ Livro sobre o intel 8086: [https://github.com/gurugio/book_assembly_8086/blob/ma
 Página oficial: [https://www.dosbox.com/wiki/]  
 Atalhos e macetes (como fazer): [https://www.dosbox.com/wiki/Shortcuts_that_You_Run_in_DOSBox]  
 
-Feito por Arthur Lorencini Bergamaschi.
-Professor da matéria: Evandro Ottoni.
-
 ### Sobre o NASM
 
 Hello world:  
